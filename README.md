@@ -1,2 +1,3 @@
 # Quizzical
 Quiz webpage developed using React. The questions and answers are fetched using the Open trivia DB.
+Cd to the project folder and run npm start.
